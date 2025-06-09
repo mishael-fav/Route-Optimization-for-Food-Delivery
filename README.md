@@ -95,8 +95,7 @@ The project utilizes four main tables:
 ## 📚 Project Files
 
 - [Route_Optimization_for_Food_Delivery.sql](./Route_Optimization_for_Food_Delivery.sql) → Main SQL analysis & optimization script  
-- Power BI Dashboard → `route_optimization_dashboard.pbix`  
-- Data exports → `route_optimization_exports.xlsx`  
+- Power BI Dashboard → [Delivery_Ooptimization_Dashboard.pbix](./Delivery_Ooptimization_Dashboard.pbix) 
 
 ---
 
