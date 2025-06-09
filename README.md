@@ -73,6 +73,9 @@ The project utilizes four main tables:
 
 ---
 
+![Cohort Retention Dashboard](images/Cohort_Retention_Analysis_Dashboard.png)
+---
+
 ## 📈 Key Insights
 
 ✅ **Traffic patterns** have significant impact on delivery times — up to **35% increase** during peak hours  
