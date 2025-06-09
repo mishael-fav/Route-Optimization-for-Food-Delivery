@@ -72,8 +72,15 @@ The project utilizes four main tables:
     - Cost savings from route optimization strategies  
 
 ---
+### Dashboard Overview
+![Dashboard Overview](Power%20BI%20Pictures/DashboardOverview.png)
 
-![Cohort Retention Dashboard](images/Cohort_Retention_Analysis_Dashboard.png)
+### Driver Attrition
+![Dashboard Overview](Power%20BI%20Pictures/Driver_Attrition_Analysis.png)
+
+### Traffic Density
+![Dashboard Overview](Power%20BI%20Pictures/Traffic_Density_Analysis.png)
+
 ---
 
 ## 📈 Key Insights
@@ -104,7 +111,7 @@ The project utilizes four main tables:
 
 ## 🤝 Acknowledgements
 
-Thanks to Amdari.io for enabling this analysis through sample data.
+Thanks to Amdari.io for enabling this analysis.
 
 ---
 
