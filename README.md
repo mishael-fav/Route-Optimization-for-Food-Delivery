@@ -8,7 +8,7 @@
 This project focuses on optimizing delivery routes for food delivery services operating in **dense urban areas**.  
 The goal is to improve delivery efficiency, reduce operational costs, and enhance customer satisfaction through intelligent route planning.
 
-The project uses **SQL** and **Power BI** to analyze historical delivery data, identify bottlenecks, and propose optimized routing strategies.
+The project uses **SQL** and **Power BI** to analyze historical delivery data, identify setbacks and propose optimized routing strategies.
 
 ---
 
