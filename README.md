@@ -28,7 +28,7 @@ The main database for this project consisted of four tables with a combined tota
 -	Drivers – Driver IDs, shift schedules, completed deliveries, and performance metrics.
 -	TrafficData – Road segments, time-of-day traffic intensity, congestion indexes.
 -	Restaurants – Vendor IDs, prep times, and average turnaround times.
-### The relationships across the tables can be visualized in the following Entity Relationship Diagram (ERD):
+#### The relationships across the tables can be visualized in the following Entity Relationship Diagram (ERD):
 [Insert ERD image here]
 ![Dashboard Overview](Power%20BI%20Pictures/DashboardOverview.png)
 
@@ -44,9 +44,9 @@ UrbanEats’ delivery inefficiencies were traced to three major bottlenecks:
 3.	Uneven driver allocation on peak days drives backlogs and extended wait times.
 
 By implementing route optimization, UrbanEats could achieve:
-*	20% reduction in delivery lead times
-*	15% decrease in operational costs
-*	Improved customer satisfaction through accurate, real-time order updates.
+-	20% reduction in delivery lead times
+-	15% decrease in operational costs
+-	Improved customer satisfaction through accurate, real-time order updates.
 
 
 ---
@@ -54,25 +54,25 @@ By implementing route optimization, UrbanEats could achieve:
 # 🔍 Insights Deep Dive
 
 ### **Delivery Lead Times**
-*	High Pending Orders: Out of 1,000 total orders, 653 (65%) remain pending, signaling a major bottleneck in order fulfillment.
-*	Average Delivery Time: Average delivery time is 9.35 minutes, which looks efficient, though it only reflects completed orders and may hide delays in pending ones.
-*	Delivery Performance by Hour: Peak delays occur around 7 AM, aligning with both high order volume and rush-hour traffic.
-*	Restaurant Delays: Nguyen-Lopez records the highest delivery time (~4 mins), while others like Green, Malone, and Peterson show faster turnaround.
+-	High Pending Orders: Out of 1,000 total orders, 653 (65%) remain pending, signaling a major bottleneck in order fulfillment.
+-	Average Delivery Time: Average delivery time is 9.35 minutes, which looks efficient, though it only reflects completed orders and may hide delays in pending ones.
+-	Delivery Performance by Hour: Peak delays occur around 7 AM, aligning with both high order volume and rush-hour traffic.
+-	Restaurant Delays: Nguyen-Lopez records the highest delivery time (~4 mins), while others like Green, Malone, and Peterson show faster turnaround.
   
 ### **Operational Costs**
-*	Traffic Hotspots: Congested areas such as Hell’s Kitchen, Gramercy, and Gashouse District increase delivery times and fuel costs, driving up overall operational expenses.
-*	Order Trends by Weekday: Highest order days are Wednesday (176) and Thursday (167), which, if not managed with proper resourcing, spike costs due to overtime and inefficient routing.
+-	Traffic Hotspots: Congested areas such as Hell’s Kitchen, Gramercy, and Gashouse District increase delivery times and fuel costs, driving up overall operational expenses.
+-	Order Trends by Weekday: Highest order days are Wednesday (176) and Thursday (167), which, if not managed with proper resourcing, spike costs due to overtime and inefficient routing.
   
 ### **Driver Allocation & Performance**
-*	Top Drivers: Thomas McDonald handles the highest number of orders (36), showing strong performance but also possible over-allocation risk.
-*	Workload Distribution: Driver shifts range from 6 to 8 per period, with Dawn Ferguson and Michelle Ballard at the max (8 shifts) and Cynthia Vasquez and Jennifer Williams at the min (6 shifts).
-*	Drivers with Most Delay: Brian Osborne averages 0.26 hrs (~15.6 mins) delay, indicating inefficiency or challenging routes.
-*	Drivers with Least Delay: Anthony Hawkins, Adam Delon, and Jacqueline Chan perform efficiently with delays as low as 0.10 hrs (~6 mins).
+-	Top Drivers: Thomas McDonald handles the highest number of orders (36), showing strong performance but also possible over-allocation risk.
+-	Workload Distribution: Driver shifts range from 6 to 8 per period, with Dawn Ferguson and Michelle Ballard at the max (8 shifts) and Cynthia Vasquez and Jennifer Williams at the min (6 shifts).
+-	Drivers with Most Delay: Brian Osborne averages 0.26 hrs (~15.6 mins) delay, indicating inefficiency or challenging routes.
+-	Drivers with Least Delay: Anthony Hawkins, Adam Delon, and Jacqueline Chan perform efficiently with delays as low as 0.10 hrs (~6 mins).
 
 ### **Customer Experience**
-*	Pending Orders Impact: The 65% pending rate undermines reliability, leading to dissatisfaction and possible churn.
-*	Top Restaurants: Nguyen-Lopez and Ryan, Alexander, and Willis generate the highest order volumes, meaning inefficiencies here directly affect more customers.
-*	Real-Time Accuracy: Inaccurate or delayed estimates from bottlenecks and traffic zones reduce customer trust and repeat usage.
+-	Pending Orders Impact: The 65% pending rate undermines reliability, leading to dissatisfaction and possible churn.
+-	Top Restaurants: Nguyen-Lopez and Ryan, Alexander, and Willis generate the highest order volumes, meaning inefficiencies here directly affect more customers.
+-	Real-Time Accuracy: Inaccurate or delayed estimates from bottlenecks and traffic zones reduce customer trust and repeat usage.
 
 ---
 
