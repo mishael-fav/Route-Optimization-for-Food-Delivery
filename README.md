@@ -1,5 +1,5 @@
 # 🚗 UrbanEats Route Optimization – Data Analytics Project
-**Improving Delivery Efficiency for Food Delivery Services in Dense Urban Areas**
+## **Improving Delivery Efficiency for Food Delivery Services in Dense Urban Areas**
 
 ---
 
@@ -11,10 +11,10 @@ As a Data Analyst, I was tasked with diagnosing key operational inefficiencies u
 ---
 
 Insights and recommendations are provided on the following key areas:
-* Delivery Lead Times
-*	Operational Costs
-*	Driver Allocation & Performance
-*	Customer Experience
+- * Delivery Lead Times
+- *	Operational Costs
+- *	Driver Allocation & Performance
+- *	Customer Experience
 
 The SQL queries used to inspect and clean the data for this analysis can be found here → [Route_Optimization_for_Food_Delivery.sql](./Route_Optimization_for_Food_Delivery.sql)
 Targeted SQL queries used to answer specific business questions can be found here → [Route_Optimization_for_Food_Delivery.sql](./Route_Optimization_for_Food_Delivery.sql)
