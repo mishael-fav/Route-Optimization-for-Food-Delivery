@@ -28,7 +28,7 @@ The main database for this project consisted of four tables with a combined tota
 -	Drivers – Driver IDs, shift schedules, completed deliveries, and performance metrics.
 -	TrafficData – Road segments, time-of-day traffic intensity, congestion indexes.
 -	Restaurants – Vendor IDs, prep times, and average turnaround times.
-The relationships across the tables can be visualized in the following Entity Relationship Diagram (ERD):
+### The relationships across the tables can be visualized in the following Entity Relationship Diagram (ERD):
 [Insert ERD image here]
 ![Dashboard Overview](Power%20BI%20Pictures/DashboardOverview.png)
 
