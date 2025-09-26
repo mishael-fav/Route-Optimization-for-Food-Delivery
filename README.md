@@ -35,17 +35,17 @@ The main database for this project consisted of four tables with a combined tota
 ---
 
 # 📊 Executive Summary
-### Overview of Findings
+## Overview of Findings
 UrbanEats operates in a fast-paced, high-demand industry where efficient food delivery is essential to both customer retention and sustainable business growth. However, the company faces pressing challenges: prolonged delivery times, escalating operational costs, inaccurate delivery estimates, and high driver dissatisfaction.
+#### The analysis revealed three key insights:
+1.	Peak-hour traffic (especially around 7 a.m.) is the largest contributor to delays.
+2.	Restaurant-level inefficiencies significantly extend delivery times for specific vendors.
+3.	Uneven driver allocation during peak periods results in high backlog rates and missed service opportunities.
 #### This project introduces a data-driven route optimization framework designed to enhance delivery efficiency in dense urban environments. Leveraging SQL for data analysis and Power BI for visualization and decision support, the project aims to achieve:
 -	A 20% reduction in delivery lead times.
 -	A 15% decrease in operational costs.
 -	Improved driver satisfaction through fairer, less stressful route planning.
 -	Enhanced customer experience via accurate, real-time order updates.
-#### The analysis revealed three key insights:
-1.	Peak-hour traffic (especially around 7 a.m.) is the largest contributor to delays.
-2.	Restaurant-level inefficiencies significantly extend delivery times for specific vendors.
-3.	Uneven driver allocation during peak periods results in high backlog rates and missed service opportunities.
 #### Successful implementation of these strategies will not only address current inefficiencies but also position UrbanEats as an industry leader in urban food delivery logistics. This initiative represents a strategic investment in technology-enabled efficiency, ensuring that UrbanEats maintains a competitive edge while delivering exceptional service.
 
 
