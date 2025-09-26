@@ -56,6 +56,7 @@ UrbanEats operates in a fast-paced, high-demand industry where efficient food de
 -	**Average Delivery Time:** Average delivery time is 9.35 minutes, which looks efficient, though it only reflects completed orders and may hide delays in pending ones.
 -	**Delivery Performance by Hour:** Peak delays occur around 7 AM, aligning with both high order volume and rush-hour traffic.
 -	**Restaurant Delays:** Nguyen-Lopez records the highest delivery time (~4 mins), while others like Green, Malone, and Peterson show faster turnaround.
+
 ![Dashboard Overview](Power%20BI%20Pictures/Traffic_Density_Analysis.png)
 
 ### **Operational Costs**
@@ -95,7 +96,7 @@ Based on the insights and findings above, we would recommend the [stakeholder te
 
 # Assumptions and Caveats:
 
-Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
+### Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
 -- **Assumption 1:** The TimeTakenToDeliver column was found to contain incorrect values. To ensure data reliability, a new column for delivery time was calculated using the difference between the OrderTimestamp and DeliveryTime columns, and the original TimeTakenToDeliver column was dropped.
 - **Assumption 2:** The DeliveryHours column contained invalid values for pending deliveries. To rectify this, a new, calculated DeliveryHours column was added to the dataset.
   
