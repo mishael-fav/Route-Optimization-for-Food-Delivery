@@ -16,8 +16,8 @@ Insights and recommendations are provided on the following key areas:
 - Driver Allocation & Performance
 - Customer Experience
 
-#### The SQL queries used to inspect and clean the data for this analysis can be found here → [SQL Queries](./Route_Optimization_for_Food_Delivery.sql)
-#### Targeted SQL queries used to answer specific business questions can be found here → [SQL Queries](./Route_Optimization_for_Food_Delivery.sql)
+#### The SQL queries used to inspect and clean the data for this analysis can be found here → [SQL Queries](./Route_Optimization_Cleaning.sql)
+#### Targeted SQL queries used to answer specific business questions can be found here → [SQL Queries](./Route_Optimization_EDA.sql)
 #### An interactive Power BI dashboard used to visualize performance and test scenarios can be found here → [Dashboard](https://app.powerbi.com/groups/me/reports/d596a82c-b9d9-4ecf-94dd-984edce9583f?ctid=319a61c8-ee1e-4161-8f35-b9553227afd7&pbi_source=linkShare&bookmarkGuid=2c52c005-ae0f-44e4-bc7e-56c3931703fe) 
 
 ---
