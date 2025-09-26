@@ -99,7 +99,7 @@ Based on the insights and findings above, we would recommend the [stakeholder te
 # Assumptions and Caveats:
 
 ### Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
--- **Assumption 1:** The TimeTakenToDeliver column was found to contain incorrect values. To ensure data reliability, a new column for delivery time was calculated using the difference between the OrderTimestamp and DeliveryTime columns, and the original TimeTakenToDeliver column was dropped.
+- **Assumption 1:** The TimeTakenToDeliver column was found to contain incorrect values. To ensure data reliability, a new column for delivery time was calculated using the difference between the OrderTimestamp and DeliveryTime columns, and the original TimeTakenToDeliver column was dropped.
 - **Assumption 2:** The DeliveryHours column contained invalid values for pending deliveries. To rectify this, a new, calculated DeliveryHours column was added to the dataset.
   
 ---
