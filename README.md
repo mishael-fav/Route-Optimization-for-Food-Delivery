@@ -68,12 +68,14 @@ UrbanEats operates in a fast-paced, high-demand industry where efficient food de
 -	**Workload Distribution:** Driver shifts range from 6 to 8 per period, with Dawn Ferguson and Michelle Ballard at the max (8 shifts) and Cynthia Vasquez and Jennifer Williams at the min (6 shifts).
 -	**Drivers with Most Delay:** Brian Osborne averages 0.26 hrs (~15.6 mins) delay, indicating inefficiency or challenging routes.
 -	**Drivers with Least Delay:** Anthony Hawkins, Adam Delon, and Jacqueline Chan perform efficiently with delays as low as 0.10 hrs (~6 mins).
+
 ![Dashboard Overview](Power%20BI%20Pictures/Driver_Attrition_Analysis.png)
 
 ### **Customer Experience**
 -	**Pending Orders Impact:** The 65% pending rate undermines reliability, leading to dissatisfaction and possible churn.
 -	**Top Restaurants:** Nguyen-Lopez and Ryan, Alexander, and Willis generate the highest order volumes, meaning inefficiencies here directly affect more customers.
 -	**Real-Time Accuracy:** Inaccurate or delayed estimates from bottlenecks and traffic zones reduce customer trust and repeat usage.
+
 ![Dashboard Overview](Power%20BI%20Pictures/DashboardOverview.png)
 
 ---
